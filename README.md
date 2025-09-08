@@ -1,4 +1,4 @@
-# Hi there, I'm Mohd Zahid 👋
+# Hi there, I'm Mohd Rashid 👋
 
 I'm a backend-focused Software Engineer with over **1.5 years of industry experience** building scalable, maintainable systems using **JavaScript / TypeScript**, **Node.js**, **Go**, and cloud-native technologies.
 
