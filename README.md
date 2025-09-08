@@ -1,6 +1,6 @@
 # Hi there, I'm Mohd Zahid 👋
 
-I'm a backend-focused Software Engineer with over **1.5 years of industry experience** building scalable, maintainable systems using **TypeScript**, **Go**, and cloud-native technologies.
+I'm a backend-focused Software Engineer with over **1.5 years of industry experience** building scalable, maintainable systems using **Javascript / TypeScript**, **Node.js**, **Go**, and cloud-native technologies.
 
 My passion lies in **distributed systems**, **event-driven-architectures**, and **fault-tolerant architectures**. I'm actively seeking opportunities to design and build resilient backend infrastructure and deepen my expertise in these areas.
 
