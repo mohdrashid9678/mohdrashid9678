@@ -1,33 +1,42 @@
-# Hi there, I'm Mohd Rashid 👋
+# Hi, I’m Mohd Rashid 👋
 
-I'm a backend-focused Software Engineer with over **1.5 years of industry experience** building scalable, maintainable systems using **JavaScript / TypeScript**, **Node.js**, **Go**, and cloud-native technologies.
+I’m a backend-focused Software Engineer with ~1.5+ years of industry experience building **scalable, distributed, and fault-tolerant systems**. I primarily work with **TypeScript**, **Node.js**, and **Go**, and enjoy designing backend infrastructure that holds up under real-world complexity.
 
-My passion lies in **distributed systems**, **event-driven-architectures**, and **fault-tolerant architectures**. I'm actively seeking opportunities to design and build resilient backend infrastructure and deepen my expertise in these areas.
-
----
-
-### 🚀 Key Contributions from My Current Role
-
-* **Data Migration:** Architected and implemented a robust data migration strategy to ensure seamless transitions and data integrity.
-* **Testing Infrastructure:** Designed and built a distributed test scheduling and execution system, and independently developed an in-system API testing platform using **node-libcurl**.
-* **Performance Optimization:** Re-architected and optimized reporting APIs, reducing latency by **60%** and boosting overall system performance.
-* **Developer Efficiency:** Pioneered a local test execution environment with **dynamic Docker images**, which reduced development time by **30-40%** and lowered **AWS** costs.
-* **Integration & Pipelines:** Engineered a feature to import data from **Postman** and created a generic data transformation pipeline.
-* **Product Development:** Drove the development of multiple product features from initial design to final deployment.
-* **Frontend Impact:** Created a library of optimized, generic **React** components that improved performance within the **Electron** application.
+My core interests include **distributed systems**, **event-driven architectures**, **execution platforms**, and **reliability-oriented backend design**.
 
 ---
 
-### 🛠️ Tech Stack & Expertise
+## 🚀 Work Highlights (Founding Engineer Experience)
 
-**Current Stack:**
-`TypeScript` | `Electron` | `React` | `NestJS` | `Redis` | `BullMQ` | `Docker` | `AWS`
+At my current role, I work as a **Founding Software Engineer**, contributing across backend architecture, execution infrastructure, and platform engineering.
 
-**Eager to work with:**
-`Go` | `REST` | `Postgres` | `Redis` | `Kafka` | `Docker` | `GitHub Actions` | `AWS`
+- **Backend & Distributed Systems:**  
+  Architected major portions of the core backend, including scalable REST APIs, authentication and logging middleware, strict request/response validation, and a distributed test scheduling and execution system.
+
+- **Execution Infrastructure & Performance:**  
+  Re-architected reporting APIs to reduce latency by ~60%.  
+  Built a local execution environment using dynamically generated Docker images, reducing development iteration time by 30–40% and lowering AWS costs.
+
+- **Platform & Integrations:**  
+  Independently designed and developed an in-system API testing platform using **node-libcurl**.  
+  Implemented Postman collection import with a generic data transformation pipeline.
+
+- **Automation & Systems Ownership:**  
+  Delivered multiple end-to-end platform features, owning system design, implementation, deployment, and post-release optimization.  
+  Built reusable, performance-oriented React components supporting an Electron-based desktop application.
 
 ---
 
-### 🌐 Connect with Me
+## 🛠️ Tech Stack
 
-* **LinkedIn:** https://www.linkedin.com/in/rashidalam9678/
+**Primary:**  
+TypeScript · Node.js · NestJS · Go · PostgreSQL · Redis · BullMQ · Docker · AWS
+
+**Experience With / Interested In:**  
+Distributed systems · REST APIs · Event-driven systems · Linux · CI/CD (GitHub Actions) · Kafka
+
+---
+
+## 🌐 Connect
+
+- **LinkedIn:** https://www.linkedin.com/in/rashidalam9678
