@@ -1,9 +1,13 @@
-# Hi, I’m Mohd Rashid 👋
+### Hi, I'm Mohd Rashid 👋
 
-I’m a Software Engineer with 2+ years of experience building **scalable, maintainable, distributed, and fault-tolerant systems**. I primarily work with **TypeScript**, **Node.js**, and **Go**, and enjoy designing backend infrastructure that holds up under real-world complexity.
+Software Engineer focused on **backend, distributed systems, and AI agents**.
 
-My core interests include **distributed systems**, **event-driven architectures**, and **data intensive systems**.
+I build scalable systems with **Go, TypeScript, PostgreSQL, Redis, and AWS**.
 
-## 🌐 Connect
+- 🚀 Built [xlink](https://github.com/mohdrashid9678/xlink), a Go URL shortener handling **50K+ req/s**
+- ⚡ Built an [eBPF/XDP Layer 4 Load Balancer](https://github.com/mohdrashid9678/xdb-lband)
+- 🤖 Building and exploring **AI agents, distributed systems, databases, and infrastructure**
 
-- **LinkedIn:** https://www.linkedin.com/in/rashidalam9678
+Open to **Backend / Platform / Distributed Systems / AI Engineering** roles.
+
+[LinkedIn](https://www.linkedin.com/in/rashidalam9678)
